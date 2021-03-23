@@ -4,13 +4,13 @@
 
 1. Клон репо из своего гита
   
-    `git clone ssh-key-repo`
+    `git clone` ~~ssh-key-repo~~
 2. Переход в репо
   
-    `cd name-folder`
+    `cd` ~~name-folder~~
 3. Создание новой ветки с переходом на неё
   
-    `git checkout -b name-branch`
+    `git checkout -b` ~~name-branch~~
 4. Проверяем ветки
   
     `git branch`
@@ -19,13 +19,13 @@
     `git remote -v`
 6. Добавляем ремоут
   
-    `git remote add name-remote ssh-key-repo-remote`
+    `git remote add` ~~name-remote~~ ~~ssh-key-repo-remote~~
 7. Проверяем изменения
   
     `git status`
 8. Добавляем изменения
   
-    `git add . or name-file`
+    `git add` ~~. or name-file~~
 9. Сохраняем изменения
   
     `git commit -m "message"`

@@ -14,6 +14,9 @@ _______
 
 ## Сборник команд
 
+Версия в [табличке](https://github.com/saveliybyru/junior_note/blob/main/GIT_table.md)
+
+
 1. Клон репо из своего форка
   
     `git clone <ssh-key-repo>`  

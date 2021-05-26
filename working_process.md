@@ -88,13 +88,13 @@ _______
   
     `git push origin <branch>`
 
-4. Создание новой ветки и переключение на неё
-  
-    `git checkout -b <branch-name>`
-
-5. Удалить ненужную ветку
+4. Удалить ненужную ветку
   
     `git branch -D <branch-name>`
+
+5. Создание новой ветки и переключение на неё
+  
+    `git checkout -b <branch-name>`
 
 6. Обновить форк
   
